@@ -6,12 +6,11 @@
 
 <br><br>
 
-**本书作者：** 王瑞 (LyShark)
-**作者邮箱：** me@lyshark.com
-**作者博客：** https://lyshark.cnblogs.com
+**本书作者：** 王瑞 (LyShark)<br>
+**作者邮箱：** me@lyshark.com<br>
+**作者博客：** https://lyshark.cnblogs.com<br>
 
 ******************************************
-
 
 **关于作者**
 
